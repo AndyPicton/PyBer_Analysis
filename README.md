@@ -8,6 +8,7 @@ V. Isualize, the CEO of a ride-sharing company, PyBer, has tasked me with creati
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 ![image](https://user-images.githubusercontent.com/99369565/160310286-7d332164-7971-4ac9-8345-1c2e9de6d8cc.png)
+
 As you can see from the above image urban cities had far more total rides than both suburban and rural cities. Urban cities also had higher total drivers and fares but the average fare per ride and driver were smaller. 
 
 ## Summary
